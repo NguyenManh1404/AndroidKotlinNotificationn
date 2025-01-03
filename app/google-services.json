@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1086528701764",
+    "project_id": "my-application-notificat-c5f35",
+    "storage_bucket": "my-application-notificat-c5f35.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086528701764:android:7925e8d244501b92820311",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDonJ-aH3WTv2wq4LspADs0HM4ydtuOOAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
